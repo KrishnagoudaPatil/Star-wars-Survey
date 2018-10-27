@@ -13,3 +13,6 @@
     - Do you consider yourself to be a fan of the Star Wars film franchise? - Has a Yes or No response.
 > There are several other columns containing answers to questions about the Star Wars movies. For some questions, the respondent had to check one or more boxes. This type of data is difficult to represent in columnar format. As a result, this data set needs a lot of cleaning.
 
+5. File Details:-
+- Basics.ipynb contains detailed project on Star wars survey
+- star_wars.csv contains Data 
